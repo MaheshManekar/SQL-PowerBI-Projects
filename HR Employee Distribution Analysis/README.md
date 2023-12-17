@@ -11,7 +11,7 @@
 
 **Data Cleaning & Analysis** - MySQL Workbench
 
-**Data Visualization** - PowerBI
+**Data Visualization Tool Used** - PowerBI
 
 ## Questions
 
@@ -39,3 +39,6 @@
  - A large number of employees come from the state of Ohio.
  - The net change in employees has increased over the years.
 - The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
+
+## Note- Used Her Data Project YouTube Channel to create this Dashboard
+[Channel Link](https://www.youtube.com/watch?v=PzyZI9uLXvY)
